@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vasanth606/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vasanth606/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
