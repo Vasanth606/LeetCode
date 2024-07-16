@@ -30,6 +30,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vasanth606/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Vasanth606/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/Vasanth606/LeetCode/tree/master/3379-score-of-a-string) |
 ## Array
 |  |
 | ------- |
