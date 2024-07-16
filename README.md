@@ -27,6 +27,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Vasanth606/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vasanth606/LeetCode/tree/master/0027-remove-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,4 +40,5 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vasanth606/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
