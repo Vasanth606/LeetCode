@@ -28,6 +28,7 @@
 | [0014-longest-common-prefix](https://github.com/Vasanth606/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Vasanth606/LeetCode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1205-defanging-an-ip-address](https://github.com/Vasanth606/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vasanth606/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Vasanth606/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Vasanth606/LeetCode/tree/master/3379-score-of-a-string) |
