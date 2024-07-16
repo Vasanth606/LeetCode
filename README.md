@@ -40,6 +40,7 @@
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/Vasanth606/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/Vasanth606/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vasanth606/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Vasanth606/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vasanth606/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -79,4 +80,8 @@
 | [2048-build-array-from-permutation](https://github.com/Vasanth606/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vasanth606/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vasanth606/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Vasanth606/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
