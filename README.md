@@ -34,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Vasanth606/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2058-concatenation-of-array](https://github.com/Vasanth606/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Vasanth606/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
