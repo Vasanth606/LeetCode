@@ -11,6 +11,7 @@
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vasanth606/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -48,6 +49,7 @@
 | [0027-remove-element](https://github.com/Vasanth606/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Vasanth606/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/Vasanth606/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -100,4 +103,5 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
