@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Vasanth606/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
+| [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanth606/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vasanth606/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/Vasanth606/LeetCode/tree/master/3194-find-words-containing-character) |
