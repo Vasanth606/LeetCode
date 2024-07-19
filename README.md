@@ -51,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vasanth606/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasanth606/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasanth606/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
