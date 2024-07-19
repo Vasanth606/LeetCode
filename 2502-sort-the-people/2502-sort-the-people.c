@@ -1,29 +1,24 @@
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
- #include<string.h>
+//  #include<string.h>
 
-char** sortPeople(char** names, int namesSize, int* heights, int heightsSize, int* returnSize) {
-    int size=namesSize;
-    char** ans=(char **)malloc(size * sizeof(char *));
-    for(int i=0;i<size-1;i++){
-        for(int j=0;j<size-1-i;j++){
-            if(heights[j]<heights[j+1]){
-                char * temp=names[j];
-                names[j]=names[j+1];
-                names[j+1]=temp;
+char** sortPeople(char** names, int n, int* heights, int h, int* returnSize) {
+    for(int i = 0;i < n - 1; i++){
+        for(int j = 0;j < n - 1 - i; j++){
+            if(heights[j] < heights[j + 1]){
+                char *name = names[j];
+                names[j] = names[j + 1];
+                names[j + 1] = name;
 
-                int temp1=heights[j];
-                heights[j]=heights[j+1];
-                heights[j+1]=temp1;
+                int t = heights[j];
+                heights[j] = heights[j + 1];
+                heights[j + 1] = t;
             }
         }
     }
-    for(int i=0;i<size;i++){
-        ans[i]=(char *)malloc((strlen(names[i])+1)*sizeof(char));
-        strcpy(ans[i],names[i]);
-    }
-    * returnSize=size;
-    return ans;
-
+    
+    *returnSize = n;
+    return names;
+        
 }
