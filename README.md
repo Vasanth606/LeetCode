@@ -28,6 +28,7 @@
 | [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Vasanth606/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanth606/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
@@ -119,6 +120,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vasanth606/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vasanth606/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vasanth606/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/Vasanth606/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/Vasanth606/LeetCode/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
