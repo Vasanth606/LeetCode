@@ -25,6 +25,7 @@
 | [0012-integer-to-roman](https://github.com/Vasanth606/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanth606/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -110,6 +111,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/Vasanth606/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Vasanth606/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Vasanth606/LeetCode/tree/master/3226-minimum-number-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
