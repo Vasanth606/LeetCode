@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vasanth606/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vasanth606/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -23,6 +24,7 @@
 | [0009-palindrome-number](https://github.com/Vasanth606/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Vasanth606/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanth606/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vasanth606/LeetCode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vasanth606/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vasanth606/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
