@@ -68,6 +68,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vasanth606/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/Vasanth606/LeetCode/tree/master/2502-sort-the-people) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Vasanth606/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vasanth606/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Vasanth606/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Vasanth606/LeetCode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Vasanth606/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -86,10 +87,12 @@
 | [0027-remove-element](https://github.com/Vasanth606/LeetCode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vasanth606/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vasanth606/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vasanth606/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -119,6 +122,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasanth606/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2502-sort-the-people](https://github.com/Vasanth606/LeetCode/tree/master/2502-sort-the-people) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vasanth606/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
