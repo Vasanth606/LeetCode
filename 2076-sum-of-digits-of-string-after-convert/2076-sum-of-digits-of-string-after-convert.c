@@ -16,16 +16,15 @@ int getLucky(char* s, int k) {
         else sum += seen[s[i] - 96];
     }
     printf("%d",sum);
-    if( k == 1 ) return sum;
+    if(k == 1 ) return sum;
     if(k == 2) {
         sum = add(sum);
         return sum;
     }
-    else{
-        //  int temp = sum;
-        for(int i = k;i > 0; i--){
-            sum = add(sum);
-        }            
-    }
+    else 
+        for(int i = k;i > 0; i--) 
+             sum = add(sum);
+                 
+    
     return sum;
 }
