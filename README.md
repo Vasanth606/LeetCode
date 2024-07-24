@@ -64,6 +64,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasanth606/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/Vasanth606/LeetCode/tree/master/0724-find-pivot-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Vasanth606/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -165,5 +166,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Vasanth606/LeetCode/tree/master/0724-find-pivot-index) |
 | [2714-left-and-right-sum-differences](https://github.com/Vasanth606/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
