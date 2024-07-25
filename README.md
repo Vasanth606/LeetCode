@@ -49,6 +49,7 @@
 | [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Vasanth606/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Vasanth606/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2128-reverse-prefix-of-word](https://github.com/Vasanth606/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Vasanth606/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Vasanth606/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/Vasanth606/LeetCode/tree/master/2502-sort-the-people) |
@@ -103,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/Vasanth606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
+| [2128-reverse-prefix-of-word](https://github.com/Vasanth606/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Vasanth606/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Vasanth606/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
