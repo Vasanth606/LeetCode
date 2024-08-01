@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/Vasanth606/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2502-sort-the-people](https://github.com/Vasanth606/LeetCode/tree/master/2502-sort-the-people) |
@@ -71,6 +72,7 @@
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Vasanth606/LeetCode/tree/master/0724-find-pivot-index) |
+| [1319-unique-number-of-occurrences](https://github.com/Vasanth606/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Vasanth606/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vasanth606/LeetCode/tree/master/1603-running-sum-of-1d-array) |
