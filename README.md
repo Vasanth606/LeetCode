@@ -29,6 +29,7 @@
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/Vasanth606/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Vasanth606/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Vasanth606/LeetCode/tree/master/2383-add-two-integers) |
