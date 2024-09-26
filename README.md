@@ -32,6 +32,7 @@
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Vasanth606/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Vasanth606/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Vasanth606/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Vasanth606/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/Vasanth606/LeetCode/tree/master/2383-add-two-integers) |
@@ -77,6 +78,7 @@
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Vasanth606/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/Vasanth606/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Vasanth606/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/Vasanth606/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Vasanth606/LeetCode/tree/master/1603-running-sum-of-1d-array) |
