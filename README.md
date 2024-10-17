@@ -80,6 +80,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasanth606/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vasanth606/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -143,6 +144,7 @@
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Vasanth606/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vasanth606/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Vasanth606/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -174,6 +176,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vasanth606/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/Vasanth606/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
@@ -219,4 +222,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
