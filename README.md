@@ -76,6 +76,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Vasanth606/LeetCode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Vasanth606/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vasanth606/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
@@ -140,6 +141,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vasanth606/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vasanth606/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Vasanth606/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vasanth606/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -171,6 +173,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vasanth606/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Vasanth606/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Sorting
 |  |
