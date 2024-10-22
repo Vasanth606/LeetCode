@@ -11,6 +11,7 @@
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vasanth606/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vasanth606/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/Vasanth606/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -30,6 +31,7 @@
 | [0066-plus-one](https://github.com/Vasanth606/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Vasanth606/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Vasanth606/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Vasanth606/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -81,6 +83,7 @@
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Vasanth606/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -146,6 +149,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Vasanth606/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Vasanth606/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Vasanth606/LeetCode/tree/master/0792-binary-search) |
@@ -184,6 +188,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Vasanth606/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Vasanth606/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -195,6 +200,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
