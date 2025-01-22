@@ -3,6 +3,7 @@ class Solution {
         HashMap<Character,Integer> m = new HashMap<>();
         for(char c : s.toCharArray()){
             m.put(c,m.getOrDefault(c,0) + 1);
+            
         }
         System.out.println(m);
         for(int i = 0; i < s.length(); i++){
