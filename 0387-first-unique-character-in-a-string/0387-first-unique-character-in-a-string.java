@@ -4,10 +4,10 @@ class Solution {
         for(char c : s.toCharArray()){
             m.put(c,m.getOrDefault(c,0) + 1);
         }
+        System.out.println(m);
         for(int i = 0; i < s.length(); i++){
             if(m.get(s.charAt(i)) == 1) return i;
         }
-        System.out.print(m);
         return -1;
     }
 }
