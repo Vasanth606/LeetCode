@@ -15,7 +15,7 @@ class Solution {
         while(p2 != null && p2.next != null){
             p1 = p1.next;
             System.out.print(p1.val + " ");
-            // System.out.print(p2.val+ " ");
+            
             p2 = p2.next.next;
         }
         return p1;
