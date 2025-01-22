@@ -14,8 +14,6 @@ class Solution {
         ListNode p2 = head;
         while(p2 != null && p2.next != null){
             p1 = p1.next;
-            System.out.print(p1.val + " ");
-            
             p2 = p2.next.next;
         }
         return p1;
