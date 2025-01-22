@@ -260,4 +260,8 @@
 | ------- |
 | [0155-min-stack](https://github.com/Vasanth606/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vasanth606/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vasanth606/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
