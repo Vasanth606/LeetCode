@@ -231,6 +231,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [3226-minimum-number-game](https://github.com/Vasanth606/LeetCode/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
@@ -251,6 +252,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
@@ -269,6 +271,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vasanth606/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vasanth606/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Vasanth606/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vasanth606/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -279,4 +282,8 @@
 | [0002-add-two-numbers](https://github.com/Vasanth606/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Vasanth606/LeetCode/tree/master/0206-reverse-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
