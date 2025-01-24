@@ -30,10 +30,15 @@ class Solution {
    }
     public ListNode mergeKLists(ListNode[] list) {
         if(list == null || list.length == 0) return null;
-        ListNode res  = list[0];
-        for(int i = 1; i < list.length; i++){
-            res = merge(res,list[i]);
-        }
-        return res;
+        int n = list.length; // Total number of lists
+        while (n > 1) {
+        int k = (n + 1) / 2; // Calculate the number of pairs to merge
+        for (int i = 0; i < n / 2; i++) {
+        list[i] = merge(list[i], list[i + k]); // Merge pairs
+    }
+    n = k; // Update the number of lists to the new merged count
+
+}
+    return list[0];
     }
 }
