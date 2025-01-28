@@ -293,18 +293,22 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vasanth606/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Vasanth606/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vasanth606/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Vasanth606/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vasanth606/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vasanth606/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Vasanth606/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Vasanth606/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vasanth606/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Vasanth606/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
