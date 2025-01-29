@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Vasanth606/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth606/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Vasanth606/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Vasanth606/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth606/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Vasanth606/LeetCode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
@@ -147,6 +149,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Vasanth606/LeetCode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vasanth606/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Vasanth606/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vasanth606/LeetCode/tree/master/0287-find-the-duplicate-number) |
