@@ -342,4 +342,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vasanth606/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Vasanth606/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
