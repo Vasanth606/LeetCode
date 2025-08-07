@@ -347,6 +347,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vasanth606/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vasanth606/LeetCode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Vasanth606/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Vasanth606/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vasanth606/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Vasanth606/LeetCode/tree/master/0620-not-boring-movies) |
