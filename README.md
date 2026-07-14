@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/Vasanth606/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Vasanth606/LeetCode/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vasanth606/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Vasanth606/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vasanth606/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Vasanth606/LeetCode/tree/master/0217-contains-duplicate) |
@@ -97,6 +98,7 @@
 | [0136-single-number](https://github.com/Vasanth606/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth606/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Vasanth606/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Vasanth606/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Vasanth606/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -190,6 +192,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vasanth606/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vasanth606/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Vasanth606/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -214,6 +217,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vasanth606/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Vasanth606/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
@@ -267,6 +271,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vasanth606/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Vasanth606/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Vasanth606/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
