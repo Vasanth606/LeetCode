@@ -12,6 +12,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Vasanth606/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Vasanth606/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vasanth606/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Vasanth606/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vasanth606/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -97,6 +98,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth606/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Vasanth606/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Vasanth606/LeetCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Vasanth606/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vasanth606/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vasanth606/LeetCode/tree/master/0283-move-zeroes) |
@@ -212,6 +214,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vasanth606/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Vasanth606/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vasanth606/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Vasanth606/LeetCode/tree/master/0645-set-mismatch) |
